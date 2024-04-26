@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am Lindsay. I have many hooved friends 🦄 and I created this ✨ Shiny app: www.astho.org/profile
+#### I am Lindsay. I have many hoofed friends 🦄 and I created this ✨ Shiny app: www.astho.org/profile
 
 - 📊 I create lots of pretty data visualizations
 - I 💜 R
